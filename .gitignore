@@ -1,0 +1,14 @@
+.env
+.env.*.local
+.claude
+.vscode
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+
+# Logs
+*.log
